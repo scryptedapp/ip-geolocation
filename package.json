@@ -1,6 +1,6 @@
 {
    "name": "@scrypted/ip-geolocation",
-   "version": "0.0.1",
+   "version": "0.0.2",
    "license": "Apache-2.0",
    "description": "IP-based Geolocation for Scrypted",
    "keywords": [
@@ -22,7 +22,7 @@
    },
    "scrypted": {
       "name": "IP Geolocation Plugin",
-      "type": "PositionSensor",
+      "type": "Sensor",
       "interfaces": [
          "Settings",
          "PositionSensor"
